@@ -1,0 +1,14 @@
+layout_spectrum: 0.877146074315533
+typography_spectrum: 0.786634384188801
+color:
+  brandStrength: 0.019629579735919833
+  lightness: 0.015561115695163608
+  saturation: 0.3485768469981849
+  rhythmicContrast: 0.7534213177859783
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: Castle Greyscale The Blog
