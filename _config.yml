@@ -6,9 +6,9 @@ color:
   saturation: 0.3485768469981849
   rhythmicContrast: 0.7534213177859783
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
 name: Castle Greyscale The Blog
